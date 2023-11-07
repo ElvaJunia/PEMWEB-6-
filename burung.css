@@ -1,0 +1,84 @@
+
+          body{
+            background-color: beige;
+            font-family: 'Lucida Sans', Verdana, sans-serif;
+          }
+        
+          h1{
+            text-align: center; color: blue;
+          }
+         
+          p{
+            text-align: justify; width: fit-content;
+          }
+          
+         #header{           
+            background-color: burlywood;
+            text-align:center;
+            color: blue;
+            padding: 5px;
+          }
+          
+          blockquote{
+            background-color:yellow; 
+            color: black; 
+            border-style: dotted; 
+            border-radius: 3px;
+          }
+
+          li{
+            display: inline
+          }
+       
+          ul{
+            text-align: center;
+          }
+
+         .gambar{   
+          text-align: center;
+          }
+          
+         .gambar img{
+            width: 23%;
+          }
+          
+         .koleksi{
+            background-color: burlywood;
+          }
+          
+         .koleksi img{
+            width: 23%;
+          }
+          
+          .promo{
+          text-align: center; 
+          color:black;
+          }
+          
+          .promo h2{
+            color: blue;
+          }
+          
+          .promo h3{
+            color: red;
+          }
+          
+          .promo h4{
+            color: orange;
+          }
+         
+          .isi{
+            text-align: justify;
+          }
+       
+          #profil{
+            text-align: justify;
+          }
+       
+          #berternak{
+            text-align: justify;
+          }
+        
+          .jawa{
+            font-size: 3em;color:blue;
+          }
